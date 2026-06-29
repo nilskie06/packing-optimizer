@@ -1,6 +1,6 @@
 {
   "name": "@ph-itdev/packing-optimizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Optimize box selection and packing arrangements to minimize shipping volume and material waste.",
   "main": "index.js",
   "types": "index.d.ts",
